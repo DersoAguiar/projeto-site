@@ -10,8 +10,22 @@ body {
 
 main {
     background-color: rgb(218, 191, 243);
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.507);
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(139, 8, 8);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: darkred;
+}
+
+img.lado {
+    float: right;
 }
